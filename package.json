@@ -4,7 +4,7 @@
   "description": "riot custom tag compile grunt plugin.",
   "repository": "https://github.com/ariesjia/grunt-riot",
   "author": {
-    "name": "ariesjia",
+    "name": "lemond",
     "email": "ariesjia00@hotmail.com",
     "url": "https://github.com/ariesjia"
   },
